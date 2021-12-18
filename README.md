@@ -28,7 +28,7 @@ You just must _wish_ to change this world and you will be _invited._ Seriously.
 | member-id | username | status |
 |-----------|----------|--------|
 | rct-00000001 | _[Mr.Red](https://github.com/vladimirrogozin)_ | _Owner_ |
-| rct-00000001 | _[Senator_man](https://github.com/nicksenator)_ | _Member_ |
+| rct-00000002 | _[Senator_man](https://github.com/nicksenator)_ | _Member_ |
 
 #
 Let's continue this list.
