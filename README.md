@@ -18,8 +18,7 @@ Team members are those, who collaborated or collaborating to _Red_.
 
 ## How to get in?
 
-People are getting in by doing _nothing_ in most cases: if your project was used in _Red_, you will be invited.
-Or if you will contribute to _Red_ yourself.<br/>
+If your project was used in _Red_, you will be invited.
 
 You just must _wish_ to change this world and you will be _invited._ Seriously.
 
