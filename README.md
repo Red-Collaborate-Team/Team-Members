@@ -5,7 +5,7 @@
 
 # 👑 Red Collaborate Team members (أعضاء الفريق المتعاونون ريد)
 
-## _WARNING: This page is not finished yet. And won't be._
+> _⚠️ WARNING: This page is not finished yet. **And won't be finished.**_
 
 ## Info
 
