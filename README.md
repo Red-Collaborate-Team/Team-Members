@@ -26,7 +26,7 @@ You just must _wish_ to change this world and you will be _invited._ Seriously.
 
 | member-id | username | status |
 |-----------|----------|--------|
-| rct-00000001 | _[Mr.Red](https://github.com/vladimirrogozin)_ | _Owner_ |
+| rct-00000001 | _[Mr.Red](https://github.com/red-sayed)_ | _Owner_ |
 | rct-00000002 | _[Senator_man](https://github.com/nicksenator)_ | _Member_ |
 | rct-00000003 | _[0n1cOn3](https://github.com/0n1cOn3)_ | _Ouside Collaborator_ |
 | rct-00000004 | _[ytisf](https://github.com/ytisf)_ | _Ouside Collaborator_ |
